@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations;
 use Illuminate\Database\Eloquent\SoftDeletes;
 
-class Plans extends Model
+class Plan extends Model
 {
     use SoftDeletes;
 
